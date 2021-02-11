@@ -7,6 +7,4 @@ Test web application using Servlets and JSP
 - IDE : eclipse
 - Web Application Server : Apache Tomcat 8.5
 - Database : Oracle 11g Express Edition
-- Framework & Open API : Spring, MyBatis, Ajax, jQuery
-- Version Manage System : Git
 
